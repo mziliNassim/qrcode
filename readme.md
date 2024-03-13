@@ -1,6 +1,6 @@
 # QR Code Generator
 
-![[Website Preview](https://mzili.com/projects/qrcode/qrcode.html)]
+![[Website Preview](https://mzilinassim.github.io/qrcode/)
 
 Welcome to the QR Code Generator project! This web application allows users to generate QR codes for various purposes. The project is built using HTML, CSS, and JavaScript to ensure a responsive and user-friendly experience across all devices.
 
